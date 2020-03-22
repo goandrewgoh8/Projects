@@ -1,0 +1,6 @@
+The Jupyter notebook reads the data from "Credit Card Comparison Data.xlsx" that contains details regarding a list of credit cards. 
+
+For the tool to be useful to you, it must be personalized based on your spending habits: 
+1) in each of the merchant categories (affects cash back/rewards points)
+2) based on vendors' credit card company acceptance (i.e. Amex and Discover may be less widely accepted vs Visa/Mastercard in the places that you frequent)
+3) 
